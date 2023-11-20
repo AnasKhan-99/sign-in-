@@ -1,0 +1,54 @@
+body
+{
+ background-color: antiquewhite;
+ margin: 0px;
+ padding: 0px;
+ 
+}
+#contain
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#First
+{
+    color: brown;
+}
+#First::placeholder
+{
+  color: cadetblue;
+}
+#last
+{
+   color: brown;
+}
+#last::placeholder
+{
+    color: cadetblue;
+}
+#email
+{
+    color: brown;
+}
+#email::placeholder
+{
+    color: cadetblue;
+}
+#mobile
+{
+    color: brown;
+}
+#mobile::placeholder
+{
+    color: cadetblue;
+}
+#pass
+{
+    color: brown;
+}
+#pass::placeholder
+{
+    color: cadetblue;
+}
